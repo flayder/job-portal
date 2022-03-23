@@ -1,10 +1,8 @@
 ## Oppotunity
 Opportunity is an online job portal.
 
-19 February 2020 - Present
-
 > A Project Under **PHP Laravel Framework Training** Program.
-**Institute:** Lucid Maze
+**Author:** Lost-service
 
 <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="200">
 
